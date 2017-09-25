@@ -5,4 +5,6 @@ The work was done mainly locally by downloading a json file and working in jupyt
 
 Notes:
 Jack Lundquist provided help with the json file visualization and for the syntax in how to get information from the command line for the correct execution of the python script. 
-Dana Chermesh provided help with the writing to the csv file. Although we end up using a pandas dataframe for the final version. 
+Dana Chermesh provided help with the writing to the csv file. Although we end up using a pandas dataframe for the final version.
+
+Part 3 was also done with hel of Juan Sokoloff and Jack Lundquist, who helped set up the environmental variable (I wasn't using the correct Kernel). Also Juan help reference the address of the datasets in the CUSP data hub.
