@@ -9,3 +9,5 @@
 
 
 # FBB I asked that assignment 2 be a table within this readme. please read instructions carefully!
+
+# Anova and Correlation: the null hypothesis is the absence of effect: for the bees it is motor activity w cocain < control group, for chocolate/Nobel price its that there is NO correlation
