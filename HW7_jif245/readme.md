@@ -11,3 +11,5 @@ The jupyter notebook HW7_1_jif245 is included in the Authorea paper in the "Data
 The link to the paper is: 
 https://www.authorea.com/users/175201/articles/210378-measuring-the-difference-in-citibike-triptime-by-gender
 
+## Assignment 2
+Most of the code was discussed in class with minimal changes done by me. 
