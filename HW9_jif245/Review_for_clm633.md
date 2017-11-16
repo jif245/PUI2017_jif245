@@ -9,10 +9,12 @@ The graph requires careful reading of the caption to be able to interpet it. It 
 The pattern I'm extracting from the graph is that there are more trips from higher income areas than from lower income areas. It is just an impression, but the caption doesn't mention anything about this. In any case, I feel the caption and the graph are sending conflicting messages.
 
 
+
 **AESTHETHIC**
 
 The color choice is really good. They are very easy to distinguish and the graph is pleasant to look at. 
 Maybe subsampling the dataset would have been helpfull to show less superimposition. 
+
 
 
 **HONESTY**
