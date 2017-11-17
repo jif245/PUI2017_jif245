@@ -8,7 +8,7 @@ Although it is clear the graph is showing that different parts of NY have differ
 The caption mentions the percentage each category is covering. It describes for example, that category yellow *“is over the 75% of the city”*. It sounds a little confusing, like if 75% of NYC area has the yellow category. 
 From looking at the graph I understand it means that each category represents a quarter of the city **zipcodes**, not area. In any case, it feels like the information from the graph and the caption is conflicting. 
  
-**ESTHETHIC**  
+**AESTHETHIC**  
 The colors are chosen appropiately, with a colorblind tool they still look readable, although in this case, the caption would be more difficult to understand (it mentions colors by their name). Anyway, I think is a pleasing choise of colors.
 
 **HONESTY**  
