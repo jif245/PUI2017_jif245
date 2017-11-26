@@ -7,3 +7,6 @@ Reviews were performed for:
 
 3. Padvorac,Emily, ep2247, [**ep2247**](https://github.com/ep2247/PUI2017_ep2247/tree/master/HW8_ep2247)
 
+### Assignment #2
+First part of the assignment was done in conjunction with Rebecca Scheidegger and Juan Sokoloff. Rebecca provided information in how to use the API and importing first data frame.
+Rest of the excercise was done with Juan Sokoloff with help from Prince Abunku on how to plot the chloropeths one over the other. 
