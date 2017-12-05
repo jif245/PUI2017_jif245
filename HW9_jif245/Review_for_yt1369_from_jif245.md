@@ -18,6 +18,6 @@ The colors are chosen appropiately, with a colorblind tool they still look reada
 The Energy Use intensity seems to be strongly correlating to population density. The graph is implicating some areas consume more energy, but I don't know if it's because there is more poeple of because there is more inefficient buildings, etc. Some type of normalization accounting for population density would have been useful to control for this. 
 Also, when the graph mentions percentages of the city, it sounds like area but in reality is zipcodes (I think, but it's not clear).
 
-# FBB ok
+# FBB ok, no axis labels, but the the peculiar geometry of NYC you get away with it
 
 10/10
